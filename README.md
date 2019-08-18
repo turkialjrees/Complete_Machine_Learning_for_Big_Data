@@ -4,7 +4,7 @@
 
 # Complete Project on Advacne Machine Learning for Big_Data
 
-Advance Big Data Analysis using Machine Learning - complete projects and include additional  tasks:
+Advance Big Data Analysis using Machine Learning - complete <a href="https://github.com/turkialjrees/Complete_Machine_Learning_for_Big_Data/blob/master/Complete_Machine_Learning_for_Big_Data.ipynb">projects</a> which include additional tasks:
 
 
 ## Welcome to Complete Big Data Analysis using Machine Learning
