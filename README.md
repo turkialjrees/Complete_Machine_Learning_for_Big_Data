@@ -2,10 +2,9 @@
 <img src="https://github.com/turkialjrees/Big-Data-ML/blob/master/img/fff.PNG">
 
 
-# Complete Machine Learning for Big_Data
+# Complete Project on Advacne Machine Learning for Big_Data
 
-Advance Big Data Analysis using Machine Learning - complete projects and many tasks:
-
+Advance Big Data Analysis using Machine Learning - complete projects and include additional  tasks:
 
 
 ## Welcome to Complete Big Data Analysis using Machine Learning
